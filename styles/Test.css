@@ -1,0 +1,29 @@
+img {
+    width: 600px;
+    height: 250px;
+    margin: 0 auto;
+  border-style: dashed;
+  border-color: white;
+  display: block;
+}
+body {
+  background-color: black;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  font-size: 40px;
+  font-display: block;
+  text-align: center;
+}
+p {
+  color: white;
+}
+table {
+  border-style: solid;
+  border-color: white;
+  color: darkcyan
+}
+td {
+  color: aquamarine;
+}
